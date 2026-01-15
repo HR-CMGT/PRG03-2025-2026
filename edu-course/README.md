@@ -186,7 +186,7 @@ Om dit op te lossen open je de terminal in je phpStorm van het cursusproject, en
 je het volgende commando uit:
 
 ```bash
-npm install jest@23.6.0
+npm install jest@29.3.1
 ```
 
 Happy coding! 🎉
