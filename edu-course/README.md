@@ -37,6 +37,8 @@ de laatste versie in je Herd zodat je kunt werken met Node.
 
 ### JetBrains Academy Plugin
 
+> ZORG DAT JE PHPSTORM UP-TO-DATE IS VOOR JE AAN DE SLAG GAAT!
+
 Om de EDU-course te kunnen starten heb je de "JetBrains Academy" plugin nodig.
 Deze kun je installeren door in PhpStorm naar je `Settings -> Plugins` te
 gaan en daar te zoeken op "JetBrains Academy" in de Marketplace. Na installatie
