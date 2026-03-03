@@ -50,5 +50,5 @@ function writeFeedbackMessage(text) {
  * @returns {*}
  */
 function shuffleArray(array) {
-  return array.sort(() => (Math.random() - 0.5));
+  return array.toSorted(() => (Math.random() - 0.5));
 }
