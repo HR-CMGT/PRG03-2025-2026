@@ -1,3 +1,5 @@
+window.addEventListener('load', init);
+
 //Global variables
 const imageList = ['ballonnen', 'cars', 'planes', 'goudkistje'];
 
